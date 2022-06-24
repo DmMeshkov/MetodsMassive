@@ -1,0 +1,15 @@
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\Example_001_01.csproj.AssemblyReference.cache
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\Example_001_01.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\Example_001_01.AssemblyInfoInputs.cache
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\Example_001_01.AssemblyInfo.cs
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\Example_001_01.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Лекция_2\Example_001_01\bin\Debug\net6.0\Example_001_01.exe
+B:\Git study\C#\Лекция_2\Example_001_01\bin\Debug\net6.0\Example_001_01.deps.json
+B:\Git study\C#\Лекция_2\Example_001_01\bin\Debug\net6.0\Example_001_01.runtimeconfig.json
+B:\Git study\C#\Лекция_2\Example_001_01\bin\Debug\net6.0\Example_001_01.dll
+B:\Git study\C#\Лекция_2\Example_001_01\bin\Debug\net6.0\Example_001_01.pdb
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\Example_001_01.dll
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\refint\Example_001_01.dll
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\Example_001_01.pdb
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\Example_001_01.genruntimeconfig.cache
+B:\Git study\C#\Лекция_2\Example_001_01\obj\Debug\net6.0\ref\Example_001_01.dll
