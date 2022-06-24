@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Examole_001_IntroArray/1.0.0": {
+        "runtime": {
+          "Examole_001_IntroArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examole_001_IntroArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

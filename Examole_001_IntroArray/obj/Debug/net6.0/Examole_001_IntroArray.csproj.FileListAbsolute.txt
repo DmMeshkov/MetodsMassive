@@ -1,0 +1,15 @@
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\bin\Debug\net6.0\Examole_001_IntroArray.exe
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\bin\Debug\net6.0\Examole_001_IntroArray.deps.json
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\bin\Debug\net6.0\Examole_001_IntroArray.runtimeconfig.json
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\bin\Debug\net6.0\Examole_001_IntroArray.dll
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\bin\Debug\net6.0\Examole_001_IntroArray.pdb
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\Examole_001_IntroArray.csproj.AssemblyReference.cache
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\Examole_001_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\Examole_001_IntroArray.AssemblyInfoInputs.cache
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\Examole_001_IntroArray.AssemblyInfo.cs
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\Examole_001_IntroArray.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\Examole_001_IntroArray.dll
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\refint\Examole_001_IntroArray.dll
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\Examole_001_IntroArray.pdb
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\Examole_001_IntroArray.genruntimeconfig.cache
+B:\Git study\C#\Лекция_2\Examole_001_IntroArray\obj\Debug\net6.0\ref\Examole_001_IntroArray.dll
