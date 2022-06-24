@@ -1,0 +1,15 @@
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\Example_002_NewIntArray.csproj.AssemblyReference.cache
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\Example_002_NewIntArray.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\Example_002_NewIntArray.AssemblyInfoInputs.cache
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\Example_002_NewIntArray.AssemblyInfo.cs
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\Example_002_NewIntArray.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\bin\Debug\net6.0\Example_002_NewIntArray.exe
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\bin\Debug\net6.0\Example_002_NewIntArray.deps.json
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\bin\Debug\net6.0\Example_002_NewIntArray.runtimeconfig.json
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\bin\Debug\net6.0\Example_002_NewIntArray.dll
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\bin\Debug\net6.0\Example_002_NewIntArray.pdb
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\Example_002_NewIntArray.dll
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\refint\Example_002_NewIntArray.dll
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\Example_002_NewIntArray.pdb
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\Example_002_NewIntArray.genruntimeconfig.cache
+B:\Git study\C#\Лекция_2\Example_002_NewIntArray\obj\Debug\net6.0\ref\Example_002_NewIntArray.dll
