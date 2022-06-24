@@ -1,0 +1,15 @@
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\bin\Debug\net6.0\Example_002ArrayN_Find.exe
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\bin\Debug\net6.0\Example_002ArrayN_Find.deps.json
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\bin\Debug\net6.0\Example_002ArrayN_Find.runtimeconfig.json
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\bin\Debug\net6.0\Example_002ArrayN_Find.dll
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\bin\Debug\net6.0\Example_002ArrayN_Find.pdb
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\Example_002ArrayN_Find.csproj.AssemblyReference.cache
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\Example_002ArrayN_Find.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\Example_002ArrayN_Find.AssemblyInfoInputs.cache
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\Example_002ArrayN_Find.AssemblyInfo.cs
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\Example_002ArrayN_Find.csproj.CoreCompileInputs.cache
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\Example_002ArrayN_Find.dll
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\refint\Example_002ArrayN_Find.dll
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\Example_002ArrayN_Find.pdb
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\Example_002ArrayN_Find.genruntimeconfig.cache
+B:\Git study\C#\Лекция_2\Example_002ArrayN_Find\obj\Debug\net6.0\ref\Example_002ArrayN_Find.dll
